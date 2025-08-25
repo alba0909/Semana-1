@@ -1,1 +1,7 @@
-# Semana-1
+# Semana-1: Variables, Entradas y salidas de datos
+
+## Variables
+
+Un area de la memoria que se identifica con un nomnbre y tiene un tipo de datos, ejemplo
+
+$y = \sum_{i=1}^n(x_i) $
